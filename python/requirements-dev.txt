@@ -5,3 +5,5 @@ opentelemetry-proto == 1.12.0
 backoff >= 1.10.0, < 2.0.0; python_version<'3.7'
 backoff >= 1.10.0, < 3.0.0; python_version>='3.7'
 opentelemetry-exporter-otlp-proto-http ~= 1.11
+build
+twine
