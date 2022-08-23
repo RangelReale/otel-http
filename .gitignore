@@ -1,0 +1,23 @@
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+sdist
+develop-eggs
+.installed.cfg
+pyvenv.cfg
+__pycache__
+venv*/
+.venv*/
+
+# JetBrains
+.idea
+
+# VSCode
+.vscode
+
+# mypy
+.mypy_cache/
