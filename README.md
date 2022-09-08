@@ -23,3 +23,7 @@ provider = MeterProvider(resource=resource, metric_readers=[metric_reader])
 # Sets the global default meter provider
 metrics.set_meter_provider(provider)
 ```
+
+## License
+
+This project is licensed under the [MIT LICENSE](LICENSE).
