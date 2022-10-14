@@ -1,7 +1,7 @@
 # OpenTelemetry Collector Metrics over HTTP Exporter
 
 ```shell
-pip install rr-opentelemetry-extension-exporter-otlp-proto-http
+pip install sb-opentelemetry-extension-exporter-otlp-proto-http
 ```
 
 Usage:

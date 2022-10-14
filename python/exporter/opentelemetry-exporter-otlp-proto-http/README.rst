@@ -13,7 +13,7 @@ Installation
 
 ::
 
-     pip install rr-opentelemetry-extension-exporter-otlp-proto-http
+     pip install sb-opentelemetry-extension-exporter-otlp-proto-http
 
 
 .. code-block:: python
